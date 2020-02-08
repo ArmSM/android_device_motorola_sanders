@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aex_sanders.mk
+	$(LOCAL_DIR)/aosp_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	aex_sanders-userdebug \
+	aosp_sanders-userdebug \
